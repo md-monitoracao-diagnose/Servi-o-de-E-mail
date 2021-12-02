@@ -1,0 +1,7 @@
+C:\Users\Marcelo.Junior\source\repos\MailSend\Mail\obj\Debug\Mail.csprojAssemblyReference.cache
+C:\Users\Marcelo.Junior\source\repos\MailSend\Mail\obj\Debug\Mail.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo.Junior\source\repos\MailSend\Mail\bin\Debug\Mail.exe.config
+C:\Users\Marcelo.Junior\source\repos\MailSend\Mail\bin\Debug\Mail.exe
+C:\Users\Marcelo.Junior\source\repos\MailSend\Mail\bin\Debug\Mail.pdb
+C:\Users\Marcelo.Junior\source\repos\MailSend\Mail\obj\Debug\Mail.exe
+C:\Users\Marcelo.Junior\source\repos\MailSend\Mail\obj\Debug\Mail.pdb
